@@ -743,7 +743,7 @@ knitr::include_app("https://ebsmonash.shinyapps.io/VICfire/", height = "550px")
 ---
 # Discussion questions
 
-Noting use "AI" as loosely analogous to "predictive analytics"
+Noting use of "AI" as loosely analogous to "predictive analytics"
 
 - Will the .monash-blue2[ability to download open data and use open source software] to check what others are reporting or that AI is behaving itself, continue into the future? 
 - Should an AI system be required to provide a .monash-blue2[diagnostic tool], to allow a user to unpack its results? 

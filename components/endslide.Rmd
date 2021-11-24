@@ -4,12 +4,11 @@ class: hide-slide-number split-70
 count: false
 
 .column.shade_black[.content[
-
-<br><br>
+<br>
 
 ## Acknowledgements
 
-[https://bit.ly/Cook-MDFI](https://bit.ly/Cook-MDFI)
+[https://bit.ly/Cook-MDFI](https://bit.ly/Cook-MDFI) plus reproducing materials at [https://github.com/dicook/Monash-MDFI](https://github.com/dicook/Monash-MDFI).
 
 Slides produced using [Rmarkdown](https://github.com/rstudio/rmarkdown) with [xaringan](https://github.com/yihui/xaringan) styling. Monash style by the kunoichi, Dr Emi Tanaka. 
 
@@ -17,10 +16,8 @@ Slides produced using [Rmarkdown](https://github.com/rstudio/rmarkdown) with [xa
 
 `spotoroo` package is available on CRAN and [Patrick's GitHub repo](https://github.com/TengMCing/spotoroo). 
 
-# Thanks for listening!
+## Thanks for listening!
 
-
-<br> 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
